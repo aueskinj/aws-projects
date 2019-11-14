@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Optimize data retrieval from RDS instance
