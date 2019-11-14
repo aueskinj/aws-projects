@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Create IAM role setup for Lambda permissions
