@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Implement basic CRUD operations for DynamoDB
