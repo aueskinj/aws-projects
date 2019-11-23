@@ -1,1 +1,1 @@
-Document API usage in README
+Add retry logic for failed S3 uploads
