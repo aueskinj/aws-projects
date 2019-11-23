@@ -1,1 +1,1 @@
-Document API usage in README
+Implement auto-scaling for ECS services
