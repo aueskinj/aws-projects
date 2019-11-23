@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Set up basic project structure and dependencies
