@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add retry logic for API Gateway integrations
