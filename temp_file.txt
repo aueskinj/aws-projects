@@ -1,1 +1,1 @@
-Add retry logic for failed S3 uploads
+Set up IAM policies for least privilege access
