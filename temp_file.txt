@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Add parameter store for secrets management
