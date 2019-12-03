@@ -1,1 +1,1 @@
-Refactor Lambda error handling
+Configure SES for email notifications
