@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Configure security group rules for VPC
