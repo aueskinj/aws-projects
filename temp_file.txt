@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Set up IAM policies for least privilege access
