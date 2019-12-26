@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Add parameter store for secrets management
