@@ -1,1 +1,1 @@
-Update RDS backup and retention settings
+Fix role permissions for Lambda integration
