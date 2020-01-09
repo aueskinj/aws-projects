@@ -1,1 +1,1 @@
-Add CloudFormation templates for infrastructure setup
+Enable CloudTrail logging for security monitoring
