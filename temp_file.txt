@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Add CloudFormation templates for infrastructure setup
