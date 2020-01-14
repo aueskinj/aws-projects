@@ -1,1 +1,1 @@
-Enable CloudTrail logging for security monitoring
+Set up basic project structure and dependencies
