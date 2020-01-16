@@ -1,1 +1,1 @@
-Enable CloudTrail logging for security monitoring
+Refactor EC2 instance type selection logic
