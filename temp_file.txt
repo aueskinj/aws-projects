@@ -1,1 +1,1 @@
-Refactor Lambda error handling
+Optimize data retrieval from RDS instance
