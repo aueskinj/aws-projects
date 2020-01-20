@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Improve error handling across SQS consumers
