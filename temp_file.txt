@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Add parameter store for secrets management
