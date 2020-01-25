@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Add support for multi-region deployments
