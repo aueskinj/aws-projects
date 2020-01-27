@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Set up basic project structure and dependencies
