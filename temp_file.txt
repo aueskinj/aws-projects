@@ -1,1 +1,1 @@
-Document API usage in README
+Update RDS backup and retention settings
