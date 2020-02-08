@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Fix IAM role permissions for cross-account access
