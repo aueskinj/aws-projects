@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Refactor EC2 instance type selection logic
