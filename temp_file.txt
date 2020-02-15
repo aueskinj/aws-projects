@@ -1,1 +1,1 @@
-Document API usage in README
+Add Route 53 DNS configuration
