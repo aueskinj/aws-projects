@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Integrate SNS topic for notification handling
