@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Document API usage in README
