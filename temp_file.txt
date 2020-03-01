@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Add logging for API Gateway requests
