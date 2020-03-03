@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Implement user authentication with Cognito
