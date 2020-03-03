@@ -1,1 +1,1 @@
-Fix IAM role permissions for cross-account access
+Set up basic project structure and dependencies
