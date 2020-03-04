@@ -1,1 +1,1 @@
-Fix IAM role permissions for cross-account access
+Fix role permissions for Lambda integration
