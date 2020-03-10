@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Enhance EC2 instance launch configurations
