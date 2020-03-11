@@ -1,1 +1,1 @@
-Update README with usage examples
+Set up basic project structure and dependencies
