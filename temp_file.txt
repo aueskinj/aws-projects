@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Add validation for input data to Lambda
