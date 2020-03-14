@@ -1,1 +1,1 @@
-Implement basic CRUD operations for DynamoDB
+Add support for multi-region deployments
