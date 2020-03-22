@@ -1,1 +1,1 @@
-Fix bug in parameterized EC2 launch function
+Optimize SNS message format for readability
