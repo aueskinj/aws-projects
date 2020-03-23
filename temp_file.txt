@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Implement initial S3 bucket upload functionality
