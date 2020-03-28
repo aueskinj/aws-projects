@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Add initial DynamoDB table setup scripts
