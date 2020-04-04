@@ -1,1 +1,1 @@
-Create IAM role setup for Lambda permissions
+Implement basic CRUD operations for DynamoDB
