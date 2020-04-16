@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Set up basic project structure and dependencies
