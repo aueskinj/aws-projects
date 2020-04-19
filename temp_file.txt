@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Optimize SNS message format for readability
