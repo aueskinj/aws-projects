@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Add retry logic for API Gateway integrations
