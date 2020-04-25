@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Configure security group rules for VPC
