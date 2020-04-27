@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Add retry logic for API Gateway integrations
