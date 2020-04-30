@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Integrate SNS topic for notification handling
