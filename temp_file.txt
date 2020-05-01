@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Fix role permissions for Lambda integration
