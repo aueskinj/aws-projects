@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Add SQS dead-letter queue handling
