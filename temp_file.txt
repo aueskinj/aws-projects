@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Add data validation for RDS inputs
