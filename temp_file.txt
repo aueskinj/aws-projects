@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Add retry logic for failed S3 uploads
