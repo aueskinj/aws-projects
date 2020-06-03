@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Fix bug in parameterized EC2 launch function
