@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add SQS dead-letter queue handling
