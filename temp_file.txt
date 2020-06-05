@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Add support for multi-region deployments
