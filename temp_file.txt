@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Implement batch processing support in Lambda
