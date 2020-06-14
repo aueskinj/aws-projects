@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Refactor EC2 instance type selection logic
