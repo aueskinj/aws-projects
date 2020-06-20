@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Fix role permissions for Lambda integration
