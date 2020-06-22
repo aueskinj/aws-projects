@@ -1,1 +1,1 @@
-Document API usage in README
+Enable CloudTrail logging for security monitoring
