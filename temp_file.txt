@@ -1,1 +1,1 @@
-Document API usage in README
+Enhance logging with CloudWatch Logs
