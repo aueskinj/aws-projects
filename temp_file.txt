@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Improve error handling across SQS consumers
