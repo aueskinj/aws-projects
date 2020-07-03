@@ -1,1 +1,1 @@
-Document API usage in README
+Set up IAM policies for least privilege access
