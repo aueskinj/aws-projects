@@ -1,1 +1,1 @@
-Enhance logging with CloudWatch Logs
+Create IAM role setup for Lambda permissions
