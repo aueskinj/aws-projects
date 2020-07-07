@@ -1,1 +1,1 @@
-Optimize Lambda function timeout settings
+Add logging for API Gateway requests
