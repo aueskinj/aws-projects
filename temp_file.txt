@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Add data validation for RDS inputs
