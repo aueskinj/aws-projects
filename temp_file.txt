@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Add input sanitization for API endpoints
