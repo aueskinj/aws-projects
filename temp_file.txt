@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Enable CloudTrail logging for security monitoring
