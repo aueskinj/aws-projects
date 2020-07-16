@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Improve error handling across SQS consumers
