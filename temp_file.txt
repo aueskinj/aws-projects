@@ -1,1 +1,1 @@
-Improve error handling across SQS consumers
+Update README with usage examples
