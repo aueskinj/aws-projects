@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Integrate SNS topic for notification handling
