@@ -1,1 +1,1 @@
-Set up custom domain for API Gateway
+Add support for multi-region deployments
