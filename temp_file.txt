@@ -1,1 +1,1 @@
-Update RDS backup and retention settings
+Improve error handling across SQS consumers
