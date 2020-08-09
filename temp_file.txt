@@ -1,1 +1,1 @@
-Implement basic CRUD operations for DynamoDB
+Update RDS backup and retention settings
