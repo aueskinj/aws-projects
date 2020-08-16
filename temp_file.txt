@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Optimize Lambda function timeout settings
