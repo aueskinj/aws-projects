@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Enable X-Ray tracing for Lambda
