@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Configure API Gateway throttling limits
