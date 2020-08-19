@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Refactor Lambda error handling
