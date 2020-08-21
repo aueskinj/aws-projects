@@ -1,1 +1,1 @@
-Refactor Lambda function to improve readability
+Update API Gateway configuration for POST requests
