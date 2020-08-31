@@ -1,1 +1,1 @@
-Add CloudFormation templates for infrastructure setup
+Configure security group rules for VPC
