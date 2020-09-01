@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Implement batch processing support in Lambda
