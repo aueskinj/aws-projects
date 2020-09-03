@@ -1,1 +1,1 @@
-Refactor Lambda function to improve readability
+Fix IAM role permissions for cross-account access
