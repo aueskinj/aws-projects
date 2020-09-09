@@ -1,1 +1,1 @@
-Fix bug in parameterized EC2 launch function
+Fix IAM role permissions for cross-account access
