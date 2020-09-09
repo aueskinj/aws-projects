@@ -1,1 +1,1 @@
-Add S3 lifecycle policy for data archiving
+Fix bug in parameterized EC2 launch function
