@@ -1,1 +1,1 @@
-Add S3 lifecycle policy for data archiving
+Enable X-Ray tracing for Lambda
