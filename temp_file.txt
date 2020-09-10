@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Add DynamoDB table indexing for faster queries
