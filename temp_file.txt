@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Add initial DynamoDB table setup scripts
