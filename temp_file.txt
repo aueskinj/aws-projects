@@ -1,1 +1,1 @@
-Fix bug in parameterized EC2 launch function
+Add support for multi-region deployments
