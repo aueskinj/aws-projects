@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Enable X-Ray tracing for Lambda
