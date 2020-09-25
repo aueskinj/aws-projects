@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Enhance logging with CloudWatch Logs
