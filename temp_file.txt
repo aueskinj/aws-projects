@@ -1,1 +1,1 @@
-Implement basic CRUD operations for DynamoDB
+Add retry logic for failed S3 uploads
