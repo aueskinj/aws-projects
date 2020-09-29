@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Enhance EC2 instance launch configurations
