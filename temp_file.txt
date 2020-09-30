@@ -1,1 +1,1 @@
-Add input sanitization for API endpoints
+Update API Gateway configuration for POST requests
