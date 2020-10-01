@@ -1,1 +1,1 @@
-Add Route 53 DNS configuration
+Add DynamoDB table indexing for faster queries
