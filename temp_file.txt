@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Set up custom domain for API Gateway
