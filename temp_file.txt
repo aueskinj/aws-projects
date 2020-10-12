@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Add S3 lifecycle policy for data archiving
