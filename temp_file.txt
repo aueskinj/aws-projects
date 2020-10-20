@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Configure API Gateway throttling limits
