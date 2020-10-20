@@ -1,1 +1,1 @@
-Refactor Lambda function to improve readability
+Set up basic project structure and dependencies
