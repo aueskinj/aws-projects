@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Fix IAM role permissions for cross-account access
