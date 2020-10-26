@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Document API usage in README
