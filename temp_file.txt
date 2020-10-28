@@ -1,1 +1,1 @@
-Add S3 lifecycle policy for data archiving
+Fix IAM role permissions for cross-account access
