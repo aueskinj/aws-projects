@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Fix bug in parameterized EC2 launch function
