@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Set up custom domain for API Gateway
