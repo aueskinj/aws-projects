@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add DynamoDB table indexing for faster queries
