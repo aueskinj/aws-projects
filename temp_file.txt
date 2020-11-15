@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Refactor EC2 instance type selection logic
