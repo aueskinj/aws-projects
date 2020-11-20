@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Implement caching with ElastiCache
