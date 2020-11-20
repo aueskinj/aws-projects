@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Set up basic project structure and dependencies
