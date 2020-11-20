@@ -1,1 +1,1 @@
-Add S3 lifecycle policy for data archiving
+Fix concurrency issues in SQS processing
