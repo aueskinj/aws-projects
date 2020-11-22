@@ -1,1 +1,1 @@
-Improve error handling across SQS consumers
+Add retry logic for API Gateway integrations
