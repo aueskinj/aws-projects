@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Optimize data retrieval from RDS instance
