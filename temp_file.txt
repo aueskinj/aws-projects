@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Implement auto-scaling for ECS services
