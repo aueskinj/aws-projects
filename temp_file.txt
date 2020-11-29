@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Add input sanitization for API endpoints
