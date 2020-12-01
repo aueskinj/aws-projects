@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Add initial DynamoDB table setup scripts
