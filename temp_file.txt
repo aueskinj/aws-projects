@@ -1,1 +1,1 @@
-Add DynamoDB table indexing for faster queries
+Enable CloudTrail logging for security monitoring
