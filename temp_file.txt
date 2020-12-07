@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Integrate SNS topic for notification handling
