@@ -1,1 +1,1 @@
-Implement basic CRUD operations for DynamoDB
+Configure SES for email notifications
