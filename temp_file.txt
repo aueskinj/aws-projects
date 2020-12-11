@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Add logging for API Gateway requests
