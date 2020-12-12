@@ -1,1 +1,1 @@
-Add retry logic for failed S3 uploads
+Update README with usage examples
