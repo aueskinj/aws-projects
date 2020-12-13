@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Set up basic project structure and dependencies
