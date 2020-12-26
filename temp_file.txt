@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Add input sanitization for API endpoints
