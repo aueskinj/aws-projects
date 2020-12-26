@@ -1,1 +1,1 @@
-Refactor Lambda error handling
+Refactor EC2 instance type selection logic
