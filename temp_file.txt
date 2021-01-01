@@ -1,1 +1,1 @@
-Document API usage in README
+Implement basic CRUD operations for DynamoDB
