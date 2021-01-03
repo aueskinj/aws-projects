@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Enhance EC2 instance launch configurations
