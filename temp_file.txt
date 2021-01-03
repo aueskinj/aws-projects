@@ -1,1 +1,1 @@
-Add CloudFormation templates for infrastructure setup
+Fix IAM role permissions for cross-account access
