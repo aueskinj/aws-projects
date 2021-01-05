@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Add CloudFormation templates for infrastructure setup
