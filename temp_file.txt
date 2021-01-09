@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Update RDS backup and retention settings
