@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add initial DynamoDB table setup scripts
