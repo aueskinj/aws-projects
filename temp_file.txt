@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Update RDS backup and retention settings
