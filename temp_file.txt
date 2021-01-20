@@ -1,1 +1,1 @@
-Add data validation for RDS inputs
+Update RDS backup and retention settings
