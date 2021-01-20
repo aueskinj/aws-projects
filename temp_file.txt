@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Implement basic CRUD operations for DynamoDB
