@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Add retry logic for failed S3 uploads
