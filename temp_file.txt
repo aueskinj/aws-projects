@@ -1,1 +1,1 @@
-Enhance EC2 instance launch configurations
+Optimize data retrieval from RDS instance
