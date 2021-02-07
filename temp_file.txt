@@ -1,1 +1,1 @@
-Add S3 lifecycle policy for data archiving
+Set up basic project structure and dependencies
