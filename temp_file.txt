@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Configure SES for email notifications
