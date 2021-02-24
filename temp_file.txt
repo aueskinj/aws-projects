@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Set up IAM policies for least privilege access
