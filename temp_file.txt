@@ -1,1 +1,1 @@
-Refactor code to improve modularity
+Configure API Gateway throttling limits
