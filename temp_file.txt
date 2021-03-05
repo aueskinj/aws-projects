@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Add CloudFormation templates for infrastructure setup
