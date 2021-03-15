@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Implement auto-scaling for ECS services
