@@ -1,1 +1,1 @@
-Add S3 lifecycle policy for data archiving
+Add CloudFormation templates for infrastructure setup
