@@ -1,1 +1,1 @@
-Add parameter store for secrets management
+Update API Gateway configuration for POST requests
