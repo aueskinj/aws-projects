@@ -1,1 +1,1 @@
-Document API usage in README
+Add unit tests for Lambda handlers
