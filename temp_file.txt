@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add retry logic for failed S3 uploads
