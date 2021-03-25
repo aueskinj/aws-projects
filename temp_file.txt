@@ -1,1 +1,1 @@
-Fix bug in parameterized EC2 launch function
+Add retry logic for failed S3 uploads
