@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Configure API Gateway throttling limits
