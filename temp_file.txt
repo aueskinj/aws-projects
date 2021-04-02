@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Add SQS dead-letter queue handling
