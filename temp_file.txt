@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Add Route 53 DNS configuration
