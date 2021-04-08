@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Configure security group rules for VPC
