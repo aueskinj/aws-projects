@@ -1,1 +1,1 @@
-Implement initial S3 bucket upload functionality
+Fix bug in parameterized EC2 launch function
