@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Refactor Lambda function to improve readability
