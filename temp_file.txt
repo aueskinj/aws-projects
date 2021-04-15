@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Enhance EC2 instance launch configurations
