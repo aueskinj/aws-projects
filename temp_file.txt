@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Add DynamoDB table indexing for faster queries
