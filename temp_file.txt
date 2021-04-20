@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Update RDS backup and retention settings
