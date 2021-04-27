@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Document API usage in README
