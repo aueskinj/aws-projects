@@ -1,1 +1,1 @@
-Document API usage in README
+Add support for multi-region deployments
