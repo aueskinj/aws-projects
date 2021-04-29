@@ -1,1 +1,1 @@
-Add input sanitization for API endpoints
+Create IAM role setup for Lambda permissions
