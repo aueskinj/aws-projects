@@ -1,1 +1,1 @@
-Update README with usage examples
+Implement user authentication with Cognito
