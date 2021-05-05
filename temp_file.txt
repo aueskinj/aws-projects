@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Implement initial S3 bucket upload functionality
