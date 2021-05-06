@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Add SQS dead-letter queue handling
