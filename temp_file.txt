@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Optimize data retrieval from RDS instance
