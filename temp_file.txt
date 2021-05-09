@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Add CloudWatch alarms for error tracking
