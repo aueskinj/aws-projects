@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Implement tagging for AWS resources
