@@ -1,1 +1,1 @@
-Add S3 lifecycle policy for data archiving
+Fix role permissions for Lambda integration
