@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Add Route 53 DNS configuration
