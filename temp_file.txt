@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add CloudFormation templates for infrastructure setup
