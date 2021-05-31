@@ -1,1 +1,1 @@
-Optimize SNS message format for readability
+Improve error handling across SQS consumers
