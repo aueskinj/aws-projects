@@ -1,1 +1,1 @@
-Document API usage in README
+Create IAM role setup for Lambda permissions
