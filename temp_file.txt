@@ -1,1 +1,1 @@
-Refactor Lambda function to improve readability
+Add CloudFormation templates for infrastructure setup
