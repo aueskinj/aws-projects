@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Set up basic project structure and dependencies
