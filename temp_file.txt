@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Set up basic project structure and dependencies
