@@ -1,1 +1,1 @@
-Document API usage in README
+Enable X-Ray tracing for Lambda
