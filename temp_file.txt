@@ -1,1 +1,1 @@
-Document API usage in README
+Refactor EC2 instance type selection logic
