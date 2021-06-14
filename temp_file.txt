@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Add CloudWatch alarms for error tracking
