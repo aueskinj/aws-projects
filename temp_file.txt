@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Set up basic project structure and dependencies
