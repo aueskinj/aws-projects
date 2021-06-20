@@ -1,1 +1,1 @@
-Update RDS backup and retention settings
+Fix bug in parameterized EC2 launch function
