@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Refactor EC2 instance type selection logic
