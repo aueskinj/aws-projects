@@ -1,1 +1,1 @@
-Document API usage in README
+Integrate SNS topic for notification handling
