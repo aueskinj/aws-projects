@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Add validation for input data to Lambda
