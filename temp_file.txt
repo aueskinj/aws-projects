@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add SQS dead-letter queue handling
