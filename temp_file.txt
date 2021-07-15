@@ -1,1 +1,1 @@
-Enable CloudTrail logging for security monitoring
+Integrate SNS topic for notification handling
