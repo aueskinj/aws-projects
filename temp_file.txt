@@ -1,1 +1,1 @@
-Implement initial S3 bucket upload functionality
+Refactor EC2 instance type selection logic
