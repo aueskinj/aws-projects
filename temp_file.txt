@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Fix bug in parameterized EC2 launch function
