@@ -1,1 +1,1 @@
-Document API usage in README
+Add data validation for RDS inputs
