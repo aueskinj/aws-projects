@@ -1,1 +1,1 @@
-Optimize Lambda function timeout settings
+Optimize data retrieval from RDS instance
