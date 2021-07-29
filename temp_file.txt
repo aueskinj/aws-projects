@@ -1,1 +1,1 @@
-Document API usage in README
+Add initial DynamoDB table setup scripts
