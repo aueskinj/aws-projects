@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Configure SES for email notifications
