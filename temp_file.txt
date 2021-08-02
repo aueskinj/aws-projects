@@ -1,1 +1,1 @@
-Add Route 53 DNS configuration
+Update API Gateway configuration for POST requests
