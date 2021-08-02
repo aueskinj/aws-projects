@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Enhance logging with CloudWatch Logs
