@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Refactor EC2 instance type selection logic
