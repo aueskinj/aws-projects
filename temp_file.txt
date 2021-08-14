@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Add CloudFormation templates for infrastructure setup
