@@ -1,1 +1,1 @@
-Refactor Lambda error handling
+Fix bug in parameterized EC2 launch function
