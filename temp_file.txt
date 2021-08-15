@@ -1,1 +1,1 @@
-Optimize Lambda function timeout settings
+Add Route 53 DNS configuration
