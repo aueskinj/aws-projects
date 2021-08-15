@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Integrate SNS topic for notification handling
