@@ -1,1 +1,1 @@
-Enhance EC2 instance launch configurations
+Set up basic project structure and dependencies
