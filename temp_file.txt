@@ -1,1 +1,1 @@
-Add retry logic for failed S3 uploads
+Optimize SNS message format for readability
