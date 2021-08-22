@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Optimize Lambda function timeout settings
