@@ -1,1 +1,1 @@
-Create IAM role setup for Lambda permissions
+Optimize SNS message format for readability
