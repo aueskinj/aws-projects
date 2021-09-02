@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Add S3 lifecycle policy for data archiving
