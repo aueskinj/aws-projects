@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Add input sanitization for API endpoints
