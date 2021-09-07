@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Add logging for API Gateway requests
