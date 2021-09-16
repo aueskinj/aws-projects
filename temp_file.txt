@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Refactor code to improve modularity
