@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Fix bug in parameterized EC2 launch function
