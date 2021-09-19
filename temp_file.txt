@@ -1,1 +1,1 @@
-Optimize Lambda function timeout settings
+Fix bug in parameterized EC2 launch function
