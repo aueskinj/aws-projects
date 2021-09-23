@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Add initial DynamoDB table setup scripts
