@@ -1,1 +1,1 @@
-Implement initial S3 bucket upload functionality
+Update API Gateway configuration for POST requests
