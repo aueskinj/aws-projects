@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add parameter store for secrets management
