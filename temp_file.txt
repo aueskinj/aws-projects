@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Fix bug in parameterized EC2 launch function
