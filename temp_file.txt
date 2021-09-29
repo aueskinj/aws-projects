@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Improve error handling across SQS consumers
