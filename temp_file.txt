@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Configure security group rules for VPC
