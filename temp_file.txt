@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Update RDS backup and retention settings
