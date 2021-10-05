@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Add input sanitization for API endpoints
