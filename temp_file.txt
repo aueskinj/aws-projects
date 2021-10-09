@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Refactor EC2 instance type selection logic
