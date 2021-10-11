@@ -1,1 +1,1 @@
-Add CloudFormation templates for infrastructure setup
+Enable X-Ray tracing for Lambda
