@@ -1,1 +1,1 @@
-Refactor EC2 instance type selection logic
+Add CloudWatch alarms for error tracking
