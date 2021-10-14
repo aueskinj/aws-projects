@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Fix role permissions for Lambda integration
