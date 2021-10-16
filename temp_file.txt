@@ -1,1 +1,1 @@
-Enhance logging with CloudWatch Logs
+Fix concurrency issues in SQS processing
