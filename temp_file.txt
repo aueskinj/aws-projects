@@ -1,1 +1,1 @@
-Add S3 lifecycle policy for data archiving
+Update configuration for ALB target groups
