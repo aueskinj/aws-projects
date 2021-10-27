@@ -1,1 +1,1 @@
-Fix IAM role permissions for cross-account access
+Add DynamoDB table indexing for faster queries
