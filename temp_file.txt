@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Set up basic project structure and dependencies
