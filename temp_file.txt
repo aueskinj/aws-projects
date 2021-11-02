@@ -1,1 +1,1 @@
-Refactor Lambda function to improve readability
+Document API usage in README
