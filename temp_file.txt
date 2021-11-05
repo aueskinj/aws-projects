@@ -1,1 +1,1 @@
-Enhance logging with CloudWatch Logs
+Add CloudWatch alarms for error tracking
