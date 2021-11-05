@@ -1,1 +1,1 @@
-Set up IAM policies for least privilege access
+Add CloudFormation templates for infrastructure setup
