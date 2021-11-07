@@ -1,1 +1,1 @@
-Refactor Lambda error handling
+Update API Gateway configuration for POST requests
