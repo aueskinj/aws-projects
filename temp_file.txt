@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Fix concurrency issues in SQS processing
