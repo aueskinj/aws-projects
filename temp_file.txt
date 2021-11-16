@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Fix concurrency issues in SQS processing
