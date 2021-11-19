@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Enable CloudTrail logging for security monitoring
