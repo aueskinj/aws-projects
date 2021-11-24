@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Refactor Lambda function to improve readability
