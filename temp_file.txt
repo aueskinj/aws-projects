@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Set up basic project structure and dependencies
