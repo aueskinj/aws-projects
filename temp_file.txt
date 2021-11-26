@@ -1,1 +1,1 @@
-Add support for multi-region deployments
+Update configuration for ALB target groups
