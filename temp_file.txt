@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Add logging for API Gateway requests
