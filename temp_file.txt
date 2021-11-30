@@ -1,1 +1,1 @@
-Implement initial S3 bucket upload functionality
+Add support for multi-region deployments
