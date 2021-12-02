@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Update API Gateway configuration for POST requests
