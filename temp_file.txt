@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add Route 53 DNS configuration
