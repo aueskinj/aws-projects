@@ -1,1 +1,1 @@
-Add DynamoDB table indexing for faster queries
+Set up basic project structure and dependencies
