@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Enable CloudTrail logging for security monitoring
