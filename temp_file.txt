@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Enhance EC2 instance launch configurations
