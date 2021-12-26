@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Update RDS backup and retention settings
