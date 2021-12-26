@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Configure SES for email notifications
