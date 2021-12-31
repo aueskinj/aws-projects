@@ -1,1 +1,1 @@
-Refactor Lambda function to improve readability
+Create IAM role setup for Lambda permissions
