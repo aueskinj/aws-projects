@@ -1,1 +1,1 @@
-Improve error handling across SQS consumers
+Refactor EC2 instance type selection logic
