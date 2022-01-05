@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Enhance EC2 instance launch configurations
