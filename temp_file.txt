@@ -1,1 +1,1 @@
-Fix bug in parameterized EC2 launch function
+Configure SES for email notifications
