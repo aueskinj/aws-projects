@@ -1,1 +1,1 @@
-Add data validation for RDS inputs
+Add SQS dead-letter queue handling
