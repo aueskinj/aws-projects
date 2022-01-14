@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Refactor EC2 instance type selection logic
