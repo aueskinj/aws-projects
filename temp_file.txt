@@ -1,1 +1,1 @@
-Add parameter store for secrets management
+Enable X-Ray tracing for Lambda
