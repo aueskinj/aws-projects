@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Add DynamoDB table indexing for faster queries
