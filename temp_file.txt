@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Configure API Gateway throttling limits
