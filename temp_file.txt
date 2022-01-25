@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Enhance EC2 instance launch configurations
