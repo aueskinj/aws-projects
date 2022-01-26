@@ -1,1 +1,1 @@
-Add DynamoDB table indexing for faster queries
+Implement auto-scaling for ECS services
