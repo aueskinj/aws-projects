@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Update RDS backup and retention settings
