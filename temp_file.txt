@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Enhance EC2 instance launch configurations
