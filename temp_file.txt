@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Implement auto-scaling for ECS services
