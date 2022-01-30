@@ -1,1 +1,1 @@
-Fix IAM role permissions for cross-account access
+Document API usage in README
