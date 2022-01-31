@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Add validation for input data to Lambda
