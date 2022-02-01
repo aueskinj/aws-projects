@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Refactor Lambda error handling
