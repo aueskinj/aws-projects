@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Set up IAM policies for least privilege access
