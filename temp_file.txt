@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Document API usage in README
