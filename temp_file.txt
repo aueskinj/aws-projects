@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Implement auto-scaling for ECS services
