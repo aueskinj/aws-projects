@@ -1,1 +1,1 @@
-Enable CloudTrail logging for security monitoring
+Fix concurrency issues in SQS processing
