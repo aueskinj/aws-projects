@@ -1,1 +1,1 @@
-Set up IAM policies for least privilege access
+Optimize data retrieval from RDS instance
