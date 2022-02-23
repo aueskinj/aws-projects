@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Set up custom domain for API Gateway
