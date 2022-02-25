@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Add retry logic for API Gateway integrations
