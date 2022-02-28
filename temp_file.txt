@@ -1,1 +1,1 @@
-Enable CloudTrail logging for security monitoring
+Configure SES for email notifications
