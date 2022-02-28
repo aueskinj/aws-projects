@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Refactor Lambda function to improve readability
