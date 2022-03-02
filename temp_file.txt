@@ -1,1 +1,1 @@
-Document API usage in README
+Add SQS dead-letter queue handling
