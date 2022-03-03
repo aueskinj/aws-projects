@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add input sanitization for API endpoints
