@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Implement batch processing support in Lambda
