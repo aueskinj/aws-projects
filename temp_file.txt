@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Implement basic CRUD operations for DynamoDB
