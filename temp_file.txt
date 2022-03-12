@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Set up IAM policies for least privilege access
