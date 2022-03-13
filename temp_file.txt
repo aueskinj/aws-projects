@@ -1,1 +1,1 @@
-Refactor code to improve modularity
+Implement auto-scaling for ECS services
