@@ -1,1 +1,1 @@
-Add support for multi-region deployments
+Implement auto-scaling for ECS services
