@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Fix IAM role permissions for cross-account access
