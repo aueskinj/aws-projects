@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Configure SES for email notifications
