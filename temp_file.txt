@@ -1,1 +1,1 @@
-Document API usage in README
+Refactor Lambda error handling
