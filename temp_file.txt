@@ -1,1 +1,1 @@
-Improve error handling across SQS consumers
+Fix IAM role permissions for cross-account access
