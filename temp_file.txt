@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Optimize data retrieval from RDS instance
