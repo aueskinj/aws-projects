@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Configure security group rules for VPC
