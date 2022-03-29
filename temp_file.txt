@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Implement batch processing support in Lambda
