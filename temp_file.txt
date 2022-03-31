@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Fix IAM role permissions for cross-account access
