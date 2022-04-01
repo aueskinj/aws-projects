@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Update README with usage examples
