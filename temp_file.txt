@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Enable CloudTrail logging for security monitoring
