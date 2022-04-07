@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Update README with usage examples
