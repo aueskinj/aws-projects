@@ -1,1 +1,1 @@
-Add retry logic for failed S3 uploads
+Set up basic project structure and dependencies
