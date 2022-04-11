@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Refactor EC2 instance type selection logic
