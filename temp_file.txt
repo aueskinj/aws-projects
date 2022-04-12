@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Optimize SNS message format for readability
