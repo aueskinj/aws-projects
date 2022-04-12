@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Implement tagging for AWS resources
