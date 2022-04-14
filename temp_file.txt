@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Optimize SNS message format for readability
