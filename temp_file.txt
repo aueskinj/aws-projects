@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Add Route 53 DNS configuration
