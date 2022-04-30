@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Set up basic project structure and dependencies
