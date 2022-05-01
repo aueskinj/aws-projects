@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Create IAM role setup for Lambda permissions
