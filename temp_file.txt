@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Implement basic CRUD operations for DynamoDB
