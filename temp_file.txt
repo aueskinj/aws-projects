@@ -1,1 +1,1 @@
-Add CloudFormation templates for infrastructure setup
+Implement batch processing support in Lambda
