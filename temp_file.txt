@@ -1,1 +1,1 @@
-Create IAM role setup for Lambda permissions
+Integrate SNS topic for notification handling
