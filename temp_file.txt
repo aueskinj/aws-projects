@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Add retry logic for API Gateway integrations
