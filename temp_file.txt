@@ -1,1 +1,1 @@
-Document API usage in README
+Add validation for input data to Lambda
