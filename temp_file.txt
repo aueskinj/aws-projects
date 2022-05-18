@@ -1,1 +1,1 @@
-Enhance EC2 instance launch configurations
+Create IAM role setup for Lambda permissions
