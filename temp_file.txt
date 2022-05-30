@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add unit tests for Lambda handlers
