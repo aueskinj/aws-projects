@@ -1,1 +1,1 @@
-Set up CI/CD pipeline with CodePipeline
+Add validation for input data to Lambda
