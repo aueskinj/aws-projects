@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Add validation for input data to Lambda
