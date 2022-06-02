@@ -1,1 +1,1 @@
-Optimize SNS message format for readability
+Fix concurrency issues in SQS processing
