@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Add DynamoDB table indexing for faster queries
