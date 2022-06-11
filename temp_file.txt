@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Refactor EC2 instance type selection logic
