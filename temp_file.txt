@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Enhance EC2 instance launch configurations
