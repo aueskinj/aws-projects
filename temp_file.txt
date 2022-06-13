@@ -1,1 +1,1 @@
-Document API usage in README
+Optimize SNS message format for readability
