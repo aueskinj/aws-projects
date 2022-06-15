@@ -1,1 +1,1 @@
-Add parameter store for secrets management
+Integrate SNS topic for notification handling
