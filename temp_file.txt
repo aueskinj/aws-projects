@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Create IAM role setup for Lambda permissions
