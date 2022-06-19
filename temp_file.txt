@@ -1,1 +1,1 @@
-Refactor Lambda error handling
+Set up basic project structure and dependencies
