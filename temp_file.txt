@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Add initial DynamoDB table setup scripts
