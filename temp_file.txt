@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Optimize SNS message format for readability
