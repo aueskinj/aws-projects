@@ -1,1 +1,1 @@
-Update RDS backup and retention settings
+Optimize Lambda function timeout settings
