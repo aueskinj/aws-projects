@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Document API usage in README
