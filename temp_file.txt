@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Update configuration for ALB target groups
