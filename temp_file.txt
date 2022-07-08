@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Add data validation for RDS inputs
