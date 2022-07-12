@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Set up basic project structure and dependencies
