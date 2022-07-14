@@ -1,1 +1,1 @@
-Enhance logging with CloudWatch Logs
+Optimize SNS message format for readability
