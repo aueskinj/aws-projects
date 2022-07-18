@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Configure API Gateway throttling limits
