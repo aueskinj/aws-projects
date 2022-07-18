@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Fix concurrency issues in SQS processing
