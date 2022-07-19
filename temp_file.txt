@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Enable X-Ray tracing for Lambda
