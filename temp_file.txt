@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Fix concurrency issues in SQS processing
