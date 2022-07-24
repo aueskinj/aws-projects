@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Update API Gateway configuration for POST requests
