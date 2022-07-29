@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Implement basic CRUD operations for DynamoDB
