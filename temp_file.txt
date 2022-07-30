@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Improve error handling across SQS consumers
