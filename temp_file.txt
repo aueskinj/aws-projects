@@ -1,1 +1,1 @@
-Improve error handling across SQS consumers
+Add logging for API Gateway requests
