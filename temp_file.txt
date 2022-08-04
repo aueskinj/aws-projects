@@ -1,1 +1,1 @@
-Create IAM role setup for Lambda permissions
+Enable X-Ray tracing for Lambda
