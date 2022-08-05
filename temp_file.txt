@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Enhance logging with CloudWatch Logs
