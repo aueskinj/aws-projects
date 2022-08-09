@@ -1,1 +1,1 @@
-Refactor EC2 instance type selection logic
+Fix bug in parameterized EC2 launch function
