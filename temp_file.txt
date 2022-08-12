@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add support for multi-region deployments
