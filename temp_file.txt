@@ -1,1 +1,1 @@
-Add DynamoDB table indexing for faster queries
+Fix role permissions for Lambda integration
