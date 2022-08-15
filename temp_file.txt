@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add retry logic for API Gateway integrations
