@@ -1,1 +1,1 @@
-Document API usage in README
+Set up custom domain for API Gateway
