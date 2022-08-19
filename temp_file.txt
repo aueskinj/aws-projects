@@ -1,1 +1,1 @@
-Refactor Lambda error handling
+Enhance EC2 instance launch configurations
