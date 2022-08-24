@@ -1,1 +1,1 @@
-Enhance EC2 instance launch configurations
+Implement basic CRUD operations for DynamoDB
