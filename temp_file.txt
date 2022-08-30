@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Fix role permissions for Lambda integration
