@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Add SQS dead-letter queue handling
