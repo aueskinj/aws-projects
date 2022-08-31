@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Configure API Gateway throttling limits
