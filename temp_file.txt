@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Configure SES for email notifications
