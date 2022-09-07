@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Create IAM role setup for Lambda permissions
