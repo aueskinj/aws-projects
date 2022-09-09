@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Optimize SNS message format for readability
