@@ -1,1 +1,1 @@
-Add support for multi-region deployments
+Add S3 lifecycle policy for data archiving
