@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Optimize Lambda function timeout settings
