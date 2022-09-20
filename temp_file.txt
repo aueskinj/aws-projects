@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add logging for API Gateway requests
