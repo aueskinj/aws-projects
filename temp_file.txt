@@ -1,1 +1,1 @@
-Enhance EC2 instance launch configurations
+Improve error handling across SQS consumers
