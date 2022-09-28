@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Refactor Lambda function to improve readability
