@@ -1,1 +1,1 @@
-Set up IAM policies for least privilege access
+Set up basic project structure and dependencies
