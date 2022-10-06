@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Add parameter store for secrets management
