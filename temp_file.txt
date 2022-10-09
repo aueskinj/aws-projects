@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Update RDS backup and retention settings
