@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Add CloudWatch alarms for error tracking
