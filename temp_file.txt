@@ -1,1 +1,1 @@
-Set up IAM policies for least privilege access
+Integrate SNS topic for notification handling
