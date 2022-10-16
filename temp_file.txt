@@ -1,1 +1,1 @@
-Add CloudFormation templates for infrastructure setup
+Create IAM role setup for Lambda permissions
