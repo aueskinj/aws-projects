@@ -1,1 +1,1 @@
-Document API usage in README
+Add CloudWatch alarms for error tracking
