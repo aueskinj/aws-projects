@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Update API Gateway configuration for POST requests
