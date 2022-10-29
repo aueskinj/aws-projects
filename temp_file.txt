@@ -1,1 +1,1 @@
-Refactor code to improve modularity
+Enhance EC2 instance launch configurations
