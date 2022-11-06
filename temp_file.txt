@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Fix IAM role permissions for cross-account access
