@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Optimize data retrieval from RDS instance
