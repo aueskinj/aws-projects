@@ -1,1 +1,1 @@
-Fix IAM role permissions for cross-account access
+Optimize SNS message format for readability
