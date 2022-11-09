@@ -1,1 +1,1 @@
-Optimize Lambda function timeout settings
+Fix concurrency issues in SQS processing
