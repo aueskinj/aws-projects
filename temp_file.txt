@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Configure API Gateway throttling limits
