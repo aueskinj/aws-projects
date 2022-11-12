@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Add S3 lifecycle policy for data archiving
