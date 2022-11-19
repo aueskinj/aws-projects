@@ -1,1 +1,1 @@
-Implement basic CRUD operations for DynamoDB
+Add DynamoDB table indexing for faster queries
