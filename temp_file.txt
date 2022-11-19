@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Refactor code to improve modularity
