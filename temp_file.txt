@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Add initial DynamoDB table setup scripts
