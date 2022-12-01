@@ -1,1 +1,1 @@
-Refactor code to improve modularity
+Optimize data retrieval from RDS instance
