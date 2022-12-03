@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Create IAM role setup for Lambda permissions
