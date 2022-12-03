@@ -1,1 +1,1 @@
-Enhance EC2 instance launch configurations
+Enable CloudTrail logging for security monitoring
