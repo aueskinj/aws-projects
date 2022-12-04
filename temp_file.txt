@@ -1,1 +1,1 @@
-Improve error handling across SQS consumers
+Set up basic project structure and dependencies
