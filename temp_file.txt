@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Fix bug in parameterized EC2 launch function
