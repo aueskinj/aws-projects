@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Add retry logic for API Gateway integrations
