@@ -1,1 +1,1 @@
-Add input sanitization for API endpoints
+Enable CloudTrail logging for security monitoring
