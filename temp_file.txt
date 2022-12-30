@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Enhance EC2 instance launch configurations
