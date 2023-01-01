@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Refactor EC2 instance type selection logic
