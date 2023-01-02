@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Enhance EC2 instance launch configurations
