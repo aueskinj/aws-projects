@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Refactor Lambda function to improve readability
