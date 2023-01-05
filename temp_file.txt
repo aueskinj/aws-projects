@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Enhance logging with CloudWatch Logs
