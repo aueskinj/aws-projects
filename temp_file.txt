@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Implement caching with ElastiCache
