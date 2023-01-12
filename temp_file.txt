@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Fix IAM role permissions for cross-account access
