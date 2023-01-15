@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add support for multi-region deployments
