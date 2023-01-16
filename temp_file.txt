@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Configure security group rules for VPC
