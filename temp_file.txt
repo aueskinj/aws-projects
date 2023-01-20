@@ -1,1 +1,1 @@
-Add data validation for RDS inputs
+Optimize SNS message format for readability
