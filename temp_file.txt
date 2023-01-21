@@ -1,1 +1,1 @@
-Fix IAM role permissions for cross-account access
+Add support for multi-region deployments
