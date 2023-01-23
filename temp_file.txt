@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Add parameter store for secrets management
