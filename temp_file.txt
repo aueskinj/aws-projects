@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Enhance logging with CloudWatch Logs
