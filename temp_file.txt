@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Refactor EC2 instance type selection logic
