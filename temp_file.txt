@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Implement auto-scaling for ECS services
