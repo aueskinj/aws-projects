@@ -1,1 +1,1 @@
-Document API usage in README
+Update API Gateway configuration for POST requests
