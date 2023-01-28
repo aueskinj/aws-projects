@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Improve error handling across SQS consumers
