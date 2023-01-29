@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Enable CloudTrail logging for security monitoring
