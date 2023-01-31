@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Integrate SNS topic for notification handling
