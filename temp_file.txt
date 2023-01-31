@@ -1,1 +1,1 @@
-Add DynamoDB table indexing for faster queries
+Implement caching with ElastiCache
