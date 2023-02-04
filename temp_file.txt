@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Optimize data retrieval from RDS instance
