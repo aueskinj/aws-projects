@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Set up CI/CD pipeline with CodePipeline
