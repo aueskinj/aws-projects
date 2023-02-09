@@ -1,1 +1,1 @@
-Refactor EC2 instance type selection logic
+Optimize SNS message format for readability
