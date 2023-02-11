@@ -1,1 +1,1 @@
-Add retry logic for failed S3 uploads
+Implement tagging for AWS resources
