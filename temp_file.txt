@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Add retry logic for failed S3 uploads
