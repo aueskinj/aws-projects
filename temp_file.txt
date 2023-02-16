@@ -1,1 +1,1 @@
-Implement initial S3 bucket upload functionality
+Refactor code to support multiple AWS regions
