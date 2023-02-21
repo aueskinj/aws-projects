@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Integrate SNS topic for notification handling
