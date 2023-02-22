@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add parameter store for secrets management
