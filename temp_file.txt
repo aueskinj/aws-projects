@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Enable X-Ray tracing for Lambda
