@@ -1,1 +1,1 @@
-Refactor code to improve modularity
+Update README with usage examples
