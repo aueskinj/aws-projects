@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Implement batch processing support in Lambda
