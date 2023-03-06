@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Update RDS backup and retention settings
