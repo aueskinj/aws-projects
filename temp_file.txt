@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Set up custom domain for API Gateway
