@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Enable X-Ray tracing for Lambda
