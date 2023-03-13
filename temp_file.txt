@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Create IAM role setup for Lambda permissions
