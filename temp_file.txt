@@ -1,1 +1,1 @@
-Add support for multi-region deployments
+Enable X-Ray tracing for Lambda
