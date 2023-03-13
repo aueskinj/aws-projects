@@ -1,1 +1,1 @@
-Create IAM role setup for Lambda permissions
+Refactor EC2 instance type selection logic
