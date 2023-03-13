@@ -1,1 +1,1 @@
-Document API usage in README
+Add DynamoDB table indexing for faster queries
