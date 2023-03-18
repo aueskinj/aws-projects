@@ -1,1 +1,1 @@
-Implement basic CRUD operations for DynamoDB
+Enable CloudTrail logging for security monitoring
