@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Optimize Lambda function timeout settings
