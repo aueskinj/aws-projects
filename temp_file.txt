@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Enable X-Ray tracing for Lambda
