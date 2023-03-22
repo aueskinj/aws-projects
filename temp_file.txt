@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Configure security group rules for VPC
