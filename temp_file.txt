@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Add retry logic for failed S3 uploads
