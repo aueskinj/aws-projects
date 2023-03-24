@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Implement basic CRUD operations for DynamoDB
