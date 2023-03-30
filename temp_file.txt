@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Fix concurrency issues in SQS processing
