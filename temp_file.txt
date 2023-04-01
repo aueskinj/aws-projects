@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Set up basic project structure and dependencies
