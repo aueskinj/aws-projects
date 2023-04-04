@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Fix role permissions for Lambda integration
