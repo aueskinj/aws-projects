@@ -1,1 +1,1 @@
-Add parameter store for secrets management
+Set up basic project structure and dependencies
