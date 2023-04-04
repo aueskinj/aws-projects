@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Set up basic project structure and dependencies
