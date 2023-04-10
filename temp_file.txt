@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Create IAM role setup for Lambda permissions
