@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Update README with usage examples
