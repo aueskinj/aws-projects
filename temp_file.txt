@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Add S3 lifecycle policy for data archiving
