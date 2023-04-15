@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Update README with usage examples
