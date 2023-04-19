@@ -1,1 +1,1 @@
-Add parameter store for secrets management
+Implement user authentication with Cognito
