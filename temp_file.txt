@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Configure SES for email notifications
