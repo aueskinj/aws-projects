@@ -1,1 +1,1 @@
-Add CloudFormation templates for infrastructure setup
+Set up basic project structure and dependencies
