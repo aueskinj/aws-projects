@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Set up basic project structure and dependencies
