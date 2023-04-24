@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Enhance logging with CloudWatch Logs
