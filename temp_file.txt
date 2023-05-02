@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Set up IAM policies for least privilege access
