@@ -1,1 +1,1 @@
-Optimize Lambda function timeout settings
+Enhance logging with CloudWatch Logs
