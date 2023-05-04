@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Set up CI/CD pipeline with CodePipeline
