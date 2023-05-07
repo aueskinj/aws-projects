@@ -1,1 +1,1 @@
-Refactor code to improve modularity
+Add validation for input data to Lambda
