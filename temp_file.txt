@@ -1,1 +1,1 @@
-Implement initial S3 bucket upload functionality
+Optimize SNS message format for readability
