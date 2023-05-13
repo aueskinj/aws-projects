@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Update API Gateway configuration for POST requests
