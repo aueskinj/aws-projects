@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Set up IAM policies for least privilege access
