@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Implement user authentication with Cognito
