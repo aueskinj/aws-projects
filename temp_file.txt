@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Optimize SNS message format for readability
