@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Add Route 53 DNS configuration
