@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Add SQS dead-letter queue handling
