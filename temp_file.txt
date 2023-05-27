@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Implement batch processing support in Lambda
