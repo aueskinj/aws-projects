@@ -1,1 +1,1 @@
-Optimize Lambda function timeout settings
+Configure security group rules for VPC
