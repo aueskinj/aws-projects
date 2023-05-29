@@ -1,1 +1,1 @@
-Integrate SNS topic for notification handling
+Refactor Lambda function to improve readability
