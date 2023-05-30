@@ -1,1 +1,1 @@
-Refactor Lambda function to improve readability
+Add data validation for RDS inputs
