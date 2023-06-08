@@ -1,1 +1,1 @@
-Document API usage in README
+Fix bug in parameterized EC2 launch function
