@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add S3 lifecycle policy for data archiving
