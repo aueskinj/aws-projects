@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Integrate SNS topic for notification handling
