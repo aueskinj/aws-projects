@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Create IAM role setup for Lambda permissions
