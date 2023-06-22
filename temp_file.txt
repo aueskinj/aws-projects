@@ -1,1 +1,1 @@
-Update RDS backup and retention settings
+Add S3 lifecycle policy for data archiving
