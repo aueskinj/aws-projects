@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Optimize Lambda function timeout settings
