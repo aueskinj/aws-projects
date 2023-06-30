@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Improve error handling across SQS consumers
