@@ -1,1 +1,1 @@
-Enhance EC2 instance launch configurations
+Add CloudWatch alarms for error tracking
