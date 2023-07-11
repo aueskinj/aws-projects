@@ -1,1 +1,1 @@
-Create IAM role setup for Lambda permissions
+Add unit tests for Lambda handlers
