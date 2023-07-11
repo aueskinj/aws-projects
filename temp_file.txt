@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Document API usage in README
