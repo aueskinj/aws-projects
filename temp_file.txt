@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Enable X-Ray tracing for Lambda
