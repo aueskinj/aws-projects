@@ -1,1 +1,1 @@
-Add input sanitization for API endpoints
+Update RDS backup and retention settings
