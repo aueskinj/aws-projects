@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Optimize SNS message format for readability
