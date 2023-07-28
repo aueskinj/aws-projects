@@ -1,1 +1,1 @@
-Enhance logging with CloudWatch Logs
+Update README with usage examples
