@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Enhance logging with CloudWatch Logs
