@@ -1,1 +1,1 @@
-Document API usage in README
+Enhance EC2 instance launch configurations
