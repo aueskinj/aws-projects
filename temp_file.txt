@@ -1,1 +1,1 @@
-Enhance EC2 instance launch configurations
+Integrate SNS topic for notification handling
