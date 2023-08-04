@@ -1,1 +1,1 @@
-Add data validation for RDS inputs
+Enhance EC2 instance launch configurations
