@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Enhance logging with CloudWatch Logs
