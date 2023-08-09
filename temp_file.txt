@@ -1,1 +1,1 @@
-Update RDS backup and retention settings
+Set up basic project structure and dependencies
