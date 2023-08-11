@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Update RDS backup and retention settings
