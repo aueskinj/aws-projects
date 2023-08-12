@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Implement user authentication with Cognito
