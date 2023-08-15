@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Add initial DynamoDB table setup scripts
