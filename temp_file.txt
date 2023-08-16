@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Optimize SNS message format for readability
