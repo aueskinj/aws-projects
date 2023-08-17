@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Improve error handling across SQS consumers
