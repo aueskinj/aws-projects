@@ -1,1 +1,1 @@
-Optimize SNS message format for readability
+Set up basic project structure and dependencies
