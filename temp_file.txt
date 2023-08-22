@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Enable X-Ray tracing for Lambda
