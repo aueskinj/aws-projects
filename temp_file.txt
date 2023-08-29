@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Optimize SNS message format for readability
