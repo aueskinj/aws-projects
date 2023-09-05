@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Optimize Lambda function timeout settings
