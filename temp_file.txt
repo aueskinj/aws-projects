@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Set up IAM policies for least privilege access
