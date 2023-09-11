@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Update RDS backup and retention settings
