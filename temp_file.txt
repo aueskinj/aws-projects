@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Implement user authentication with Cognito
