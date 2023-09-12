@@ -1,1 +1,1 @@
-Add CloudWatch alarms for error tracking
+Optimize SNS message format for readability
