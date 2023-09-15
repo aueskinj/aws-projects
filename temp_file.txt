@@ -1,1 +1,1 @@
-Optimize Lambda function timeout settings
+Enable CloudTrail logging for security monitoring
