@@ -1,1 +1,1 @@
-Refactor code to improve modularity
+Implement basic CRUD operations for DynamoDB
