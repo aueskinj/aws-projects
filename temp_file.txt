@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Fix bug in parameterized EC2 launch function
