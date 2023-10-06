@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Fix role permissions for Lambda integration
