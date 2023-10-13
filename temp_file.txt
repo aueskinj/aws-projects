@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Add parameter store for secrets management
