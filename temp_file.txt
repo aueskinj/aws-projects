@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Implement tagging for AWS resources
