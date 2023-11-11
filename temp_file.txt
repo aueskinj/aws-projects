@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Update API Gateway configuration for POST requests
