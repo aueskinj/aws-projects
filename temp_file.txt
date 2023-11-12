@@ -1,1 +1,1 @@
-Optimize SNS message format for readability
+Implement tagging for AWS resources
