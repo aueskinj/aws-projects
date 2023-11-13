@@ -1,1 +1,1 @@
-Set up CI/CD pipeline with CodePipeline
+Optimize data retrieval from RDS instance
