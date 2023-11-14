@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Integrate SNS topic for notification handling
