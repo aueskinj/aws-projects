@@ -1,1 +1,1 @@
-Add Route 53 DNS configuration
+Enhance EC2 instance launch configurations
