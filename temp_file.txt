@@ -1,1 +1,1 @@
-Add S3 lifecycle policy for data archiving
+Document API usage in README
