@@ -1,1 +1,1 @@
-Create IAM role setup for Lambda permissions
+Fix IAM role permissions for cross-account access
