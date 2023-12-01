@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Fix concurrency issues in SQS processing
