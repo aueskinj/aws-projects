@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Fix concurrency issues in SQS processing
