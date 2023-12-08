@@ -1,1 +1,1 @@
-Enable CloudTrail logging for security monitoring
+Fix role permissions for Lambda integration
