@@ -1,1 +1,1 @@
-Set up IAM policies for least privilege access
+Enable CloudTrail logging for security monitoring
