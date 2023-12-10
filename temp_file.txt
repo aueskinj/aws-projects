@@ -1,1 +1,1 @@
-Document API usage in README
+Implement initial S3 bucket upload functionality
