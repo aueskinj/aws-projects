@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Improve error handling across SQS consumers
