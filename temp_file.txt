@@ -1,1 +1,1 @@
-Add input sanitization for API endpoints
+Configure SES for email notifications
