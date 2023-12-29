@@ -1,1 +1,1 @@
-Refactor Lambda function to improve readability
+Update RDS backup and retention settings
