@@ -1,1 +1,1 @@
-Add retry logic for failed S3 uploads
+Enable CloudTrail logging for security monitoring
