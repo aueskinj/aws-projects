@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Optimize Lambda function timeout settings
