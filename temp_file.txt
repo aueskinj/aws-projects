@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Set up basic project structure and dependencies
