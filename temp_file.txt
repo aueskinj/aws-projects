@@ -1,1 +1,1 @@
-Document API usage in README
+Add parameter store for secrets management
