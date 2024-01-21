@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Refactor EC2 instance type selection logic
