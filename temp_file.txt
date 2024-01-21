@@ -1,1 +1,1 @@
-Refactor code to improve modularity
+Add logging for API Gateway requests
