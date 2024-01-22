@@ -1,1 +1,1 @@
-Improve error handling across SQS consumers
+Add validation for input data to Lambda
