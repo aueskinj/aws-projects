@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Set up basic project structure and dependencies
