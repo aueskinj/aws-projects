@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Enable X-Ray tracing for Lambda
