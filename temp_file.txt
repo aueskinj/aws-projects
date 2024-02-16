@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Fix IAM role permissions for cross-account access
