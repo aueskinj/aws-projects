@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add Route 53 DNS configuration
