@@ -1,1 +1,1 @@
-Refactor Lambda function to improve readability
+Update configuration for ALB target groups
