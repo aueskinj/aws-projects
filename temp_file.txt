@@ -1,1 +1,1 @@
-Implement initial S3 bucket upload functionality
+Update RDS backup and retention settings
