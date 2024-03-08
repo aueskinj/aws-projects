@@ -1,1 +1,1 @@
-Update RDS backup and retention settings
+Configure SES for email notifications
