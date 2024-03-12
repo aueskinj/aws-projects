@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Configure API Gateway throttling limits
