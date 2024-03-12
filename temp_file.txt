@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Set up basic project structure and dependencies
