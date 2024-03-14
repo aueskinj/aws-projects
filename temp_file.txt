@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Optimize Lambda function timeout settings
