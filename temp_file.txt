@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Add validation for input data to Lambda
