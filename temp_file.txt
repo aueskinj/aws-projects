@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Refactor EC2 instance type selection logic
