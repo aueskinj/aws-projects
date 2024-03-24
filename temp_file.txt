@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Add data validation for RDS inputs
