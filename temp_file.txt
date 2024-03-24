@@ -1,1 +1,1 @@
-Add parameter store for secrets management
+Refactor EC2 instance type selection logic
