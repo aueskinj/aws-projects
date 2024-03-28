@@ -1,1 +1,1 @@
-Add DynamoDB table indexing for faster queries
+Configure SES for email notifications
