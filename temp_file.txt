@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Enhance logging with CloudWatch Logs
