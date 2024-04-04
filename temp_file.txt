@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Refactor code to support multiple AWS regions
