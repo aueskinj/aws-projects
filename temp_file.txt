@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Optimize SNS message format for readability
