@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Update README with usage examples
