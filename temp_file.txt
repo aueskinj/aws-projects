@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Update README with usage examples
