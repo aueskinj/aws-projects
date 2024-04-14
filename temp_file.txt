@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Add S3 lifecycle policy for data archiving
