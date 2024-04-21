@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Update configuration for ALB target groups
