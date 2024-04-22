@@ -1,1 +1,1 @@
-Refactor EC2 instance type selection logic
+Add input sanitization for API endpoints
