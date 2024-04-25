@@ -1,1 +1,1 @@
-Implement initial S3 bucket upload functionality
+Set up basic project structure and dependencies
