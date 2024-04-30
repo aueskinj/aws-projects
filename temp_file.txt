@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Refactor EC2 instance type selection logic
