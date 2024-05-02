@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Configure SES for email notifications
