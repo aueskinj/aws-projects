@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Optimize Lambda function timeout settings
