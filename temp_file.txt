@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Update README with usage examples
