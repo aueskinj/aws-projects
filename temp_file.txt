@@ -1,1 +1,1 @@
-Document API usage in README
+Set up basic project structure and dependencies
