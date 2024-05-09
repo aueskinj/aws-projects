@@ -1,1 +1,1 @@
-Update configuration for ALB target groups
+Update README with usage examples
