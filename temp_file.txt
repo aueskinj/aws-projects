@@ -1,1 +1,1 @@
-Enhance EC2 instance launch configurations
+Document API usage in README
