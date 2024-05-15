@@ -1,1 +1,1 @@
-Optimize Lambda function timeout settings
+Document API usage in README
