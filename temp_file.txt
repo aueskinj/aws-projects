@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Fix bug in parameterized EC2 launch function
