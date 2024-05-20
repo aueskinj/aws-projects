@@ -1,1 +1,1 @@
-Add CloudFormation templates for infrastructure setup
+Add initial DynamoDB table setup scripts
