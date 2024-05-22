@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Add retry logic for failed S3 uploads
