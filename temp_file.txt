@@ -1,1 +1,1 @@
-Implement tagging for AWS resources
+Configure SES for email notifications
