@@ -1,1 +1,1 @@
-Add parameter store for secrets management
+Document API usage in README
