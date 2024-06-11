@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Configure SES for email notifications
