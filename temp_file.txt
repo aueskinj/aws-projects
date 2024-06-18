@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Improve error handling across SQS consumers
