@@ -1,1 +1,1 @@
-Implement initial S3 bucket upload functionality
+Implement batch processing support in Lambda
