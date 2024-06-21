@@ -1,1 +1,1 @@
-Implement caching with ElastiCache
+Add S3 lifecycle policy for data archiving
