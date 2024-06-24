@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Configure SES for email notifications
