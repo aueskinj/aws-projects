@@ -1,1 +1,1 @@
-Add retry logic for failed S3 uploads
+Add DynamoDB table indexing for faster queries
