@@ -1,1 +1,1 @@
-Implement basic CRUD operations for DynamoDB
+Improve error handling across SQS consumers
