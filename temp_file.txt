@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Add CloudFormation templates for infrastructure setup
