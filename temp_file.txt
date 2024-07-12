@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Add initial DynamoDB table setup scripts
