@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Fix concurrency issues in SQS processing
