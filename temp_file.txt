@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Update configuration for ALB target groups
