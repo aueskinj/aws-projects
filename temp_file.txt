@@ -1,1 +1,1 @@
-Add unit tests for Lambda handlers
+Optimize data retrieval from RDS instance
