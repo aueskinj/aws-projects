@@ -1,1 +1,1 @@
-Add initial DynamoDB table setup scripts
+Implement initial S3 bucket upload functionality
