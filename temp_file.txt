@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Set up custom domain for API Gateway
