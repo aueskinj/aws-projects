@@ -1,1 +1,1 @@
-Add SQS dead-letter queue handling
+Add Route 53 DNS configuration
