@@ -1,1 +1,1 @@
-Fix concurrency issues in SQS processing
+Document API usage in README
