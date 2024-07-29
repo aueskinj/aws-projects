@@ -1,1 +1,1 @@
-Implement auto-scaling for ECS services
+Set up IAM policies for least privilege access
