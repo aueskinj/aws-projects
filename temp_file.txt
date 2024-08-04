@@ -1,1 +1,1 @@
-Improve error handling across SQS consumers
+Create IAM role setup for Lambda permissions
