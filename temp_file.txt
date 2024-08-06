@@ -1,1 +1,1 @@
-Implement user authentication with Cognito
+Refactor Lambda error handling
