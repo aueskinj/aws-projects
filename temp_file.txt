@@ -1,1 +1,1 @@
-Configure API Gateway throttling limits
+Implement initial S3 bucket upload functionality
