@@ -1,1 +1,1 @@
-Implement basic CRUD operations for DynamoDB
+Document API usage in README
