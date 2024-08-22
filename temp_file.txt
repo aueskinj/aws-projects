@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Set up IAM policies for least privilege access
