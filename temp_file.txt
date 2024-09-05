@@ -1,1 +1,1 @@
-Document API usage in README
+Configure security group rules for VPC
