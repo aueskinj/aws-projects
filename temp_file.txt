@@ -1,1 +1,1 @@
-Update API Gateway configuration for POST requests
+Optimize SNS message format for readability
