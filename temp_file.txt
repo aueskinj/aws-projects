@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Create IAM role setup for Lambda permissions
