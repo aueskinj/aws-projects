@@ -1,1 +1,1 @@
-Set up basic project structure and dependencies
+Refactor code to support multiple AWS regions
