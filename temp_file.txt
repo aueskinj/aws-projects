@@ -1,1 +1,1 @@
-Add retry logic for API Gateway integrations
+Refactor code to improve modularity
