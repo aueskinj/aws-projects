@@ -1,1 +1,1 @@
-Set up custom domain for API Gateway
+Fix role permissions for Lambda integration
