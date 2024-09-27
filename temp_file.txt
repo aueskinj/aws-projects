@@ -1,1 +1,1 @@
-Optimize data retrieval from RDS instance
+Implement basic CRUD operations for DynamoDB
