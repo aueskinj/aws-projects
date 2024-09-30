@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Fix IAM role permissions for cross-account access
