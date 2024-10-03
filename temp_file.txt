@@ -1,1 +1,1 @@
-Document API usage in README
+Add CloudFormation templates for infrastructure setup
