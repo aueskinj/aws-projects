@@ -1,1 +1,1 @@
-Fix role permissions for Lambda integration
+Add CloudWatch alarms for error tracking
