@@ -1,1 +1,1 @@
-Configure SES for email notifications
+Document API usage in README
