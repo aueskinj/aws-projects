@@ -1,1 +1,1 @@
-Add logging for API Gateway requests
+Add S3 lifecycle policy for data archiving
