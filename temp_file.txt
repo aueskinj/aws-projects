@@ -1,1 +1,1 @@
-Add validation for input data to Lambda
+Set up IAM policies for least privilege access
