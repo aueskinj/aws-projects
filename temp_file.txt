@@ -1,1 +1,1 @@
-Add retry logic for failed S3 uploads
+Add S3 lifecycle policy for data archiving
