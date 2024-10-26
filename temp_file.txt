@@ -1,1 +1,1 @@
-Enable CloudTrail logging for security monitoring
+Add validation for input data to Lambda
