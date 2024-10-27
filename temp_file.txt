@@ -1,1 +1,1 @@
-Set up custom domain for API Gateway
+Add logging for API Gateway requests
