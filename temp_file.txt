@@ -1,1 +1,1 @@
-Configure security group rules for VPC
+Add logging for API Gateway requests
