@@ -1,1 +1,1 @@
-Enable X-Ray tracing for Lambda
+Configure SES for email notifications
