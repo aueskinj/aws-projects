@@ -1,1 +1,1 @@
-Implement batch processing support in Lambda
+Enable X-Ray tracing for Lambda
