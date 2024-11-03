@@ -1,1 +1,1 @@
-Refactor code to support multiple AWS regions
+Add S3 lifecycle policy for data archiving
